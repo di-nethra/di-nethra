@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-red?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
