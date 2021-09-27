@@ -5,8 +5,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/anjana.dinethrasamarakoon)](https://www.facebook.com/anjana.dinethrasamarakoon/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjana-dinethra-samarakoon/)](https://www.linkedin.com/in/anjana-dinethra-samarakoon-66540a1a1/)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://di-nethra.github.io)](https://di-nethra.github.io/)
-
-![di-nethra's github stats](https://github-readme-stats.vercel.app/api?username=di-nethra&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-nethra&layout=compact)
 
 
