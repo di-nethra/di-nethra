@@ -7,8 +7,8 @@
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://di-nethra.github.io)](https://di-nethra.github.io/)
 <br/>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di-nethra&layout=compact) -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?di-nethra=jasongaylord&langs_count=5&theme=tokyonight)]()
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=di-nethra&layout=compact)
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?di-nethra=jasongaylord&langs_count=5&theme=tokyonight)]() -->
 
 ### Skills : <br/>
 
