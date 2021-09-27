@@ -17,6 +17,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Shell](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
